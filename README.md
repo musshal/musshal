@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: musthafafaishal@gmail.com
-- 😄 Pronouns: ...-->- ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
+- 😄 Pronouns: ...-->
+- - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
