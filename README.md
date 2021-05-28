@@ -1,6 +1,6 @@
-### Hi there 👋
+<img width="250" align="right" alt="GIF" src="https://media.giphy.com/media/PRU4TqzdyLCHS/source.gif">
 
-<img width="275" align="right" alt="GIF" src="https://media.giphy.com/media/PRU4TqzdyLCHS/source.gif">
+### Hi there 👋
 
 <!--
 **Musshal/musshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
