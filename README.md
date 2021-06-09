@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🔭 I’m currently working on CV Romo
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 
