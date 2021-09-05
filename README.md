@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 
 <!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Musshal/github-readme-stats)* -->
 
-<a href="https://github.com/Musshal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" />
+<a href="https://github.com/musshal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" />
 </a>
-<a href="https://github.com/Musshal/github-readme-stats">
+<a href="https://github.com/musshal/github-readme-stats">
   <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musshal&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/Musshal/github-readme-stats">
+<a href="https://github.com/musshal/github-readme-stats">
   <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Musshal&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/Musshal/musshal.github.io">
+<a href="https://github.com/musshal/musshal.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Musshal&repo=musshal.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" />
 </a>
