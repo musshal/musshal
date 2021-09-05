@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <!-- **Languages and Tools:**   -->
 
+### Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/musshal)
+<br />
+
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
