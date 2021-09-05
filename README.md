@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" />
 </a>
-
 <a href="https://github.com/musshal/github-readme-stats">
   <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" />
