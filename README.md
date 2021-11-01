@@ -1,14 +1,12 @@
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=musshal" align="right">
-</a>
+[<img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Musthafa+Faishal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musthafa Faishal"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Musthafa+Faishal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </h1>
 
-![Musthafa Faishal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://d17ivq9b7rppb3.cloudfront.net/small/avatar/20210804153213e34feb75233ac72dd2a8448a43a90bc7.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
+![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://d17ivq9b7rppb3.cloudfront.net/small/avatar/20210804153213e34feb75233ac72dd2a8448a43a90bc7.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
 ## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px"> <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg" align="right" width="200px"></a>
 
@@ -19,17 +17,17 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 🔭 I’m currently working on ...
 -->
 
-<img align="right" alt="GIF" height="75px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
+- 🗒️ [Gimme some advice anonymously](https://secreto.site/id/24362848)
 
 ```js
 // my life cycle
@@ -41,22 +39,15 @@ while (me.isAlive()) {
 }
 ```
 
-<!-- **Languages and Tools:**   -->
+<!-- **Languages and Tools:** -->
+
+
 ## Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](http://www.linkedin.com/in/musshal)
+[<img align="left" alt="LinkedIn" width="75" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](http://www.linkedin.com/in/musshal)
 
 <br />
 
 ---
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-<!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Musshal/github-readme-stats)* -->
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
@@ -64,27 +55,21 @@ while (me.isAlive()) {
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal" />
-  </a>
-
-  <br />
-  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" align="center" />
+    </a><br />
   <a href="https://github.com/musshal/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" align="center" />
   </a>
   <a href="https://github.com/musshal/github-readme-stats">
-    <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" height="157px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" alt="Musshal's github stats" width="334px" align="center" />
   </a>
   <a href="https://github.com/musshal/github-readme-stats">
-    <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" alt="Musshal's github stats" align="center" />
   </a>    
   <a href="https://github.com/musshal/musshal.github.io">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" alt="Musshal's github stats" align="center" />
   </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" width="100%" alt="Musshal's Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" width="100%" alt="Musshal's activity graph" align="center" />
 </div>
 
 ---
