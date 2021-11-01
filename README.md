@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 
 <!-- **Languages and Tools:**   -->
-### Connect with me
+## Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](http://www.linkedin.com/in/musshal)
 <br /><br />
 
@@ -45,3 +45,16 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" />
 </a>
+
+<br />
+<br />
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### I'm Listening rn 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&redirect=true)
+
+---
