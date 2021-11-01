@@ -77,7 +77,15 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" width="100%" alt="Musshal's Activity Graph"/>
 </div>
 
+---
+
+<h3 align="center">🏆 Trophies 🏆</h3>
+
 <br />
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+</div>
 
 ---
 
