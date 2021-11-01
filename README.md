@@ -8,7 +8,7 @@
 
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://d17ivq9b7rppb3.cloudfront.net/small/avatar/20210804153213e34feb75233ac72dd2a8448a43a90bc7.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
-## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px"> <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg" align="right" width="200px"></a>
+## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px"> <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg" align="right" width="200px"></a> <a href="https://www.buymeacoffee.com/musshal"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="122px" align="right" /></a>
 
 <!--
 **Musshal/musshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
