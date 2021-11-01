@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-<img align="right" alt="GIF" height="135px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👦 My name is [Musthafa Faishal](https://linkr.bio/mkfaishal)
 - 🌱 I’m currently learning Front-End Web Development
