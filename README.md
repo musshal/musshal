@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 
+```js
+// my life cycle
+
+while (me.isAlive()) {
+    me.eat();
+    me.sleep();
+    me.code();
+}
+```
+
 <!-- **Languages and Tools:**   -->
 ## Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](http://www.linkedin.com/in/musshal)
