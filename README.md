@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 <!-- **Languages and Tools:**   -->
 ## Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](http://www.linkedin.com/in/musshal)
-<br /><br />
+
+<br />
+
+---
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -57,9 +60,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" />
   </a>
 </div>
-
-<br />
-<br />
 
 ---
 
