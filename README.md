@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Musshal/github-readme-stats)* -->
 
 <a href="https://github.com/musshal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" />
 </a>
 <a href="https://github.com/musshal/github-readme-stats">
   <!-- Change the `github-readme-stats.Musshal.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -56,7 +56,5 @@ Here are some ideas to get you started:
 ### I'm Listening rn 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&redirect=true)
-
-<br />
 
 ---
