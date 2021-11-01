@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<br />
+
 ---
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
