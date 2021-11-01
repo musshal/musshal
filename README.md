@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Musthafa+Faishal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Musthafa+Faishal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </h1>
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+- 👦 My name is [Musthafa Faishal](https://linkr.bio/mkfaishal)
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
