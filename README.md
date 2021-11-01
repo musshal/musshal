@@ -47,10 +47,11 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+<br />
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### I'm Listening rn 🎧
 
