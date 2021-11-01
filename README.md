@@ -1,3 +1,7 @@
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=musshal" align="right">
+</a>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Musthafa+Faishal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musthafa Faishal"/>
