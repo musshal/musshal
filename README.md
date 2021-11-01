@@ -59,6 +59,7 @@ Here are some ideas to get you started:
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" />
   </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" width="100%" alt="Musshal's Activity Graph"/>
 </div>
 
 <br />
