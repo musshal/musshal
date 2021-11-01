@@ -39,8 +39,10 @@ while (me.isAlive()) {
 }
 ```
 
-<!-- **Languages and Tools:** -->
-
+<!-- **Languages and Tools:**
+## Language and Tools
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=musshal" />
+-->
 
 ## Connect with me
 [<img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" alt="LinkedIn" width="100px" align="left"/>](http://www.linkedin.com/in/musshal)
