@@ -43,9 +43,9 @@ while (me.isAlive()) {
 -->
 
 ## Connect with me
-[<img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" alt="LinkedIn" width="100px" align="left"/>](http://www.linkedin.com/in/musshal)
-
-<br />
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=hackerrank&logoColor=white&color=success)](https://www.hackerrank.com/musshal)
+[![CodersRank](https://img.shields.io/badge/-CodersRank-brightgreen?style=flat&logo=codersrank&logoColor=white&color=4DACB6)](https://www.hackerrank.com/musshal)
 
 ---
 
