@@ -44,8 +44,14 @@ while (me.isAlive()) {
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=hackerrank&logoColor=white&color=success)](https://www.hackerrank.com/musshal)
-[![CodersRank](https://img.shields.io/badge/-CodersRank-brightgreen?style=flat&logo=codersrank&logoColor=white&color=4DACB6)](https://www.hackerrank.com/musshal)
+<!-- [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=hackerrank&logoColor=white&color=success)](https://www.hackerrank.com/musshal)
+[![CodersRank](https://img.shields.io/badge/-CodersRank-brightgreen?style=flat&logo=codersrank&logoColor=white&color=4DACB6)](https://profile.codersrank.io/user/musshal)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-brightgreen?style=flat&logo=hackerearth&logoColor=white&color=4DACB6)](https://www.hackerearth.com/@musshal)
+[![TopCoder](https://img.shields.io/badge/-TopCoder-brightgreen?style=flat&logo=topcoder&logoColor=white&color=2A2A2B)](https://www.topcoder.com/members/Musshal)
+[![TopCoder](https://img.shields.io/badge/-freeCodeCamp-brightgreen?style=flat&logo=freecodecamp&logoColor=white&color=2A2A2B)](https://forum.freecodecamp.org/u/musshal)
+[![TopCoder](https://img.shields.io/badge/-stackoverflow-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=F48225)](https://stackoverflow.com/users/14705709/musthafa-faishal)
+[![TopCoder](https://img.shields.io/badge/-Codewars-brightgreen?style=flat&logo=codewars&logoColor=white&color=BB432C)](https://www.codewars.com/users/Musshal)
+[![TopCoder](https://img.shields.io/badge/-LeetCode-brightgreen?style=flat&logo=leetcode&logoColor=white&color=FFA116)](https://leetcode.com/musshal) -->
 
 ---
 
