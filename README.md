@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
