@@ -8,7 +8,15 @@
 
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://d17ivq9b7rppb3.cloudfront.net/small/avatar/20210804153213e34feb75233ac72dd2a8448a43a90bc7.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
-## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px"> <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg" align="right" width="200px"></a> <a href="https://www.buymeacoffee.com/musshal"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="122px" align="right" /></a> <a href="https://trakteer.id/musthafa-faishal-wdzpm"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" width="92px" alt="Trakteer Saya" align="right"></a>
+<div align="center">
+  <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+  <a href="https://www.buymeacoffee.com/musshal"><img src="https://user-images.githubusercontent.com/72973311/140030705-2b90d683-90c9-4438-bbc3-f9887cdaf2a4.png" alt="Buy Me A Coffee" width="107px" /></a>
+  <a href="https://trakteer.id/musthafa-faishal-wdzpm"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" width="101px" alt="Trakteer Saya"></a>
+</div>
+
+<hr />
+
+## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px">
 
 <!--
 **Musshal/musshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +27,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working on ...
 -->
-
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
