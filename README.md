@@ -98,9 +98,11 @@ while (me.isAlive()) {
 
 ---
 
+### The Song I'm Listening to RN 🎶
+
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### The Song I'm Listening to RN 🎶
+<br />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&redirect=true)
 
