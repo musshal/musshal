@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Front-End Web Development
-- ⚡ Fun fact: I'm ordinary person who have desire to be a GREAT person!
+- ⚡ Fun fact: I'm ordinary person who have desire to be a <strong>GREAT</strong> person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/id/24362848)
 
