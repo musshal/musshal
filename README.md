@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://d17ivq9b7rppb3.cloudfront.net/small/avatar/20210804153213e34feb75233ac72dd2a8448a43a90bc7.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
+![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:b3a918ed08c996ea327bca9aa992d62f20211106001141.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
 <div align="center">
   <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
