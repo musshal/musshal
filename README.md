@@ -8,6 +8,7 @@
   </a>
 </h1>
 
+
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:b3a918ed08c996ea327bca9aa992d62f20211106001141.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
 <div align="center">
@@ -29,6 +30,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working on ...
 -->
+
+<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="105px" />
 
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a <strong>GREAT</strong> person!
@@ -99,7 +102,7 @@ while (me.isAlive()) {
 ---
 
 <div align=center>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile"/>
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile" />
 </div>
 
 ---
