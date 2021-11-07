@@ -19,7 +19,7 @@
 
 <hr />
 
-## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px">
+## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
 <!--
 **Musshal/musshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
