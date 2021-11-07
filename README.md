@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="100px" />
+<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="90px" />
 
 - 🌱 I’m currently learning Front-End Web Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a <strong>GREAT</strong> person!
