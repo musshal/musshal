@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
   <a href="https://www.buymeacoffee.com/musshal"><img src="https://user-images.githubusercontent.com/72973311/140030705-2b90d683-90c9-4438-bbc3-f9887cdaf2a4.png" alt="Buy Me A Coffee" width="107px" /></a>
-  <a href="https://trakteer.id/musthafa-faishal-wdzpm"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" width="101px" alt="Trakteer Saya"></a>
+  <a href="https://trakteer.id/musthafa-faishal-wdzpm"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" width="100px" alt="Trakteer Saya"></a>
   <a href="https://paypal.me/musshal"><img src="https://user-images.githubusercontent.com/72973311/140655047-3e56ef97-66ae-4f07-97c9-1ee4c5fca736.png" width="108px" /></a>
 </div>
 
