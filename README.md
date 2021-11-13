@@ -11,9 +11,8 @@
 
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:b3a918ed08c996ea327bca9aa992d62f20211106001141.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
-<img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" width="200px" align="left" />
-
-<img src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" width="200px" align="right" />
+<!-- <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" width="200px" align="left" />
+<img src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" width="200px" align="right" /> -->
 
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" />
