@@ -18,7 +18,7 @@
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" />
 </div>
 
-<br />
+<!-- <br />
 
 <div align="center">
   <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
@@ -27,7 +27,7 @@
   <a href="https://paypal.me/musshal"><img src="https://user-images.githubusercontent.com/72973311/140655047-3e56ef97-66ae-4f07-97c9-1ee4c5fca736.png" width="108px" /></a>
 </div>
 
-<hr />
+<hr /> -->
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
