@@ -112,7 +112,7 @@ while (me.isAlive()) {
 ---
 
 <div align=center>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4elr6o55mxcgt5vxy7exks5t0&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile" />
 </div>
 
 ---
