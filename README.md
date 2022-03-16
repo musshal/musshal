@@ -9,7 +9,7 @@
 </h1>
 
 
-![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:b3a918ed08c996ea327bca9aa992d62f20211106001141.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
+![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:272d6ca32a4951400cd8ad42bb718e2620220316103914.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
 <!-- <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" width="200px" align="left" />
 <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" width="200px" align="right" /> -->
