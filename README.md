@@ -11,42 +11,18 @@
 
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Front-End%20Web%20Developer&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:272d6ca32a4951400cd8ad42bb718e2620220316103914.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mkfaishal&twitter=mkfaishal&pattern=iLikeFood&colorPattern=%23000)
 
-<!-- <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" width="200px" align="left" />
-<img src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" width="200px" align="right" /> -->
-
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" />
 </div>
 
-<!-- <br />
-
-<div align="center">
-  <a href="https://ko-fi.com/D1D85MRWV"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-  <a href="https://www.buymeacoffee.com/musshal"><img src="https://user-images.githubusercontent.com/72973311/140030705-2b90d683-90c9-4438-bbc3-f9887cdaf2a4.png" alt="Buy Me A Coffee" width="107px" /></a>
-  <a href="https://trakteer.id/musthafa-faishal-wdzpm"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" width="101px" alt="Trakteer Saya"></a>
-  <a href="https://paypal.me/musshal"><img src="https://user-images.githubusercontent.com/72973311/140655047-3e56ef97-66ae-4f07-97c9-1ee4c5fca736.png" width="108px" /></a>
-</div>
-
-<hr /> -->
-
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
-
-<!--
-**Musshal/musshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 🔭 I’m currently working on ...
--->
 
 <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" />
 
-- 🌱 I’m currently learning Front-End Web Development
+- 🌱 I’m currently learning Full-Stack Development
 - ⚡ Fun fact: I'm ordinary person who have desire to be a <strong>GREAT</strong> person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
-- 🗒️ Gimme some advice anonymously [here](https://secreto.site/id/24362848)
+- 🗒️ Gimme some advice anonymously [here](https://secreto.site/id/ayyns3)
 
 ```js
 // my life cycle
@@ -58,21 +34,8 @@ while (me.isAlive()) {
 }
 ```
 
-<!-- **Languages and Tools:**
-## Language and Tools
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=musshal" />
--->
-
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal)
-<!-- [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=hackerrank&logoColor=white&color=success)](https://www.hackerrank.com/musshal)
-[![CodersRank](https://img.shields.io/badge/-CodersRank-brightgreen?style=flat&logo=codersrank&logoColor=white&color=4DACB6)](https://profile.codersrank.io/user/musshal)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-brightgreen?style=flat&logo=hackerearth&logoColor=white&color=4DACB6)](https://www.hackerearth.com/@musshal)
-[![TopCoder](https://img.shields.io/badge/-TopCoder-brightgreen?style=flat&logo=topcoder&logoColor=white&color=2A2A2B)](https://www.topcoder.com/members/Musshal)
-[![TopCoder](https://img.shields.io/badge/-freeCodeCamp-brightgreen?style=flat&logo=freecodecamp&logoColor=white&color=2A2A2B)](https://forum.freecodecamp.org/u/musshal)
-[![TopCoder](https://img.shields.io/badge/-stackoverflow-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=F48225)](https://stackoverflow.com/users/14705709/musthafa-faishal)
-[![TopCoder](https://img.shields.io/badge/-Codewars-brightgreen?style=flat&logo=codewars&logoColor=white&color=BB432C)](https://www.codewars.com/users/Musshal)
-[![TopCoder](https://img.shields.io/badge/-LeetCode-brightgreen?style=flat&logo=leetcode&logoColor=white&color=FFA116)](https://leetcode.com/musshal) -->
 
 ---
 
@@ -81,14 +44,14 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" align="center" />
     </a><br />
   <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" alt="Musshal's github stats" width="334px" align="center" />
   </a>
   <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" alt="Musshal's github stats" width="334px" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" align="center" />
   </a>
   <a href="https://github.com/musshal/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" alt="Musshal's github stats" align="center" />
