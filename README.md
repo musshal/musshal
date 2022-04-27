@@ -45,13 +45,13 @@ while (me.isAlive()) {
 
 <div align="center">
   <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&theme=material-palenight" alt="Musshal's github stats" align="left" height="425px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&theme=material-palenight" alt="Musshal's github stats" align="left" height="325px" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="530px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="430px" />
     </a><br />
   <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="530px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="430px" />
   </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" alt="Musshal's activity graph" align="center" />
 </div>
