@@ -44,22 +44,16 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
+  <a href="https://github.com/musshal/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&theme=material-palenight" alt="Musshal's github stats" align="left" height="425px" />
+  </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" align="center" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="530px" />
     </a><br />
   <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&layout=compact&theme=material-palenight" alt="Musshal's github stats" width="334px" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="530px" />
   </a>
-  <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Musshal's github stats" width="400px" align="center" />
-  </a>
-  <a href="https://github.com/musshal/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=github-readme-stats&theme=material-palenight" alt="Musshal's github stats" align="center" />
-  </a>    
-  <a href="https://github.com/musshal/musshal.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musshal&repo=musshal.github.io&theme=material-palenight" alt="Musshal's github stats" align="center" />
-  </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" width="100%" alt="Musshal's activity graph" align="center" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" alt="Musshal's activity graph" align="center" />
 </div>
 
 ---
