@@ -62,14 +62,14 @@ while (me.isAlive()) {
 
 <br />
 
-<div align=left>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile" />
-</div>
-
-<div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=2&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=8&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
 </div>
 
 ---
+
+<div align=center>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" />
+</div>
 
 <h3 align="center">👇 Below is My Popular Repositories</h3>
