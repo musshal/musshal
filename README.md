@@ -62,11 +62,11 @@ while (me.isAlive()) {
 
 <br />
 
-<div align=center>
+<div align=left>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile" />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=4&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
 </div>
 
