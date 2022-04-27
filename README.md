@@ -67,7 +67,7 @@ while (me.isAlive()) {
 </div>
 
 <div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=4&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
+  <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=2&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
 </div>
 
 ---
