@@ -9,7 +9,7 @@
 </h1>
 
 
-![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Full-Stack%20Developer%20|%20JavaScript%20Enthusiast&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:272d6ca32a4951400cd8ad42bb718e2620220316103914.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&instagram=mussh4l&twitter=mussh4l&pattern=iLikeFood&colorPattern=%23000)
+![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Full-Stack%20Developer%20|%20JavaScript%20Enthusiast&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:272d6ca32a4951400cd8ad42bb718e2620220316103914.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&linkedin=musshal&instagram=mussh4l&twitter=mussh4l&pattern=iLikeFood&colorPattern=%23000)
 
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" />
