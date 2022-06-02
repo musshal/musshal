@@ -15,7 +15,8 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="30%" />
 </div>
 
-## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
+## [My Link Tree](https://linkr.bio/mkfaishal)
+<!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" /> -->
 
 <!-- <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" /> -->
 
