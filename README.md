@@ -57,11 +57,11 @@ while (me.isAlive()) {
   <img src="https://activity-graph.herokuapp.com/graph?username=musshal&theme=material-palenight&hide_border=false" alt="Musshal's activity graph" />
 </div>
 
----
+<!-- ---
 
 <h3 align="center">🏆 Trophies 🏆</h3>
 
-<br />
+<br /> -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=8&margin-w=15&margin-h=10 (https://github.com/ryo-ma/github-profile-trophy)">
