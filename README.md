@@ -20,7 +20,7 @@
 
 <!-- <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" /> -->
 
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 I’m currently learning Back-End Development with Go
 - ⚡ Fun fact: I'm ordinary person who have desire to be a <strong>GREAT</strong> person!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/id/ayyns3)
