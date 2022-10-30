@@ -8,6 +8,8 @@
   </a>
 </h1>
 
+![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Full-Stack%20Developer%20|%20JavaScript%20Enthusiast&image=https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:0881751e524bce6cad80d12d6798190f20220511215632.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&linkedin=musshal&instagram=mussh4l&twitter=mussh4l&github=musshal&pattern=iLikeFood&colorPattern=%23000)
+
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="68%" />
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="30%" />
