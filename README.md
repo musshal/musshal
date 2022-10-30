@@ -60,4 +60,12 @@ while (me.isAlive()) {
 
 ---
 
+<h3 align="center">🏆 Trophies 🏆</h3>
+
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=8&margin-w=20)](https://github.com/musshal/github-profile-trophy)
+
+---
+
 <h3 align="center">👇 Below is My Popular Repositories</h3>
