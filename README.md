@@ -15,7 +15,7 @@
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
-<a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="192" alt="m's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="194" alt="m's Dev Card" align="right"/></a>
 
 <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" />
 
