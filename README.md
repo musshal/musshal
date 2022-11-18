@@ -68,4 +68,12 @@ while (me.isAlive()) {
 
 ---
 
+<h3 align="center">🛡️ Badges 🛡️</h3>
+
+<br />
+
+[![@musshal's Holopin board](https://holopin.me/musshal)](https://holopin.io/@musshal)
+
+---
+
 <h3 align="center">👇 Below is My Popular Repositories</h3>
