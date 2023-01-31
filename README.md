@@ -37,9 +37,9 @@ while (me.isAlive()) {
 ```
 
 <!-- ## Connect with me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal) -->
 
---- -->
+---
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
