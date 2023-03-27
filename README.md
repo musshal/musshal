@@ -8,9 +8,9 @@
   </a>
 </h1>
 
-<img src="https://raw.githubusercontent.com/musshal/musshal/main/1500x500.jpg" />
-
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Self-taught%20Learner%20&image=https://raw.githubusercontent.com/musshal/musshal/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&linkedin=musshal&instagram=mussh4l&twitter=mussh4l&github=musshal&pattern=iLikeFood&colorPattern=%23000)
+
+<img src="https://raw.githubusercontent.com/musshal/musshal/main/1500x500.jpg" />
 
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="68%" />
