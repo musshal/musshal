@@ -15,7 +15,7 @@
   <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="155" alt="m's Dev Card" align="right"/></a>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="50%" />
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="30%" />
 </div>
