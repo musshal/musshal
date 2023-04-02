@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/musshal/musshal/main/1500x500.jpg" width="75%" align="left" />
-  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="175" alt="m's Dev Card" align="right"/></a>
+  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="160" alt="m's Dev Card" align="right"/></a>
 </div>
 
 <div align="center">
