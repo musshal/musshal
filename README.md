@@ -12,12 +12,12 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/musshal/musshal/main/1500x500.jpg" width="555" align="left" />
-  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="250" alt="m's Dev Card" align="right"/></a>
+  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="225" alt="m's Dev Card" align="right"/></a>
 </div>
 
 <div align="left">
-  <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="65%" />
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="50%" />
+  <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="25%" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="25%" />
 </div>
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
