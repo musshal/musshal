@@ -16,7 +16,7 @@
 </div>
 
 <div align="left">
-  <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="46%" />
+  <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="47%" />
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="22%" />
 </div>
 
