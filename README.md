@@ -17,9 +17,7 @@
 
 <div align="left">
   <img src="https://discord.c99.nl/widget/theme-3/777909748246511626.png" width="48%" />
-  <div align="right">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="20%" />
-  </div>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="22%" height="100px" />
 </div>
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
