@@ -22,7 +22,7 @@
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
-<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" />
+<!-- <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" /> -->
 
 - 🌱 I’m currently learning Back-End Development with Go
 - ⚡ Fun fact: I am an ordinary person who should always be a <strong>PROGRESSIVE</strong> person!
