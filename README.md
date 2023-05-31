@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=IT%20Enthusiast%20&image=https://raw.githubusercontent.com/musshal/musshal/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&linkedin=musshal&instagram=mussh4l&twitter=mussh4l&github=musshal&pattern=iLikeFood&colorPattern=%23000)
+![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=IT%20Enthusiast%20&image=https://raw.githubusercontent.com/musshal/musshal/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&linkedin=musshal&instagram=musshal&twitter=mussh4l&github=musshal&pattern=iLikeFood&colorPattern=%23000)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/musshal/musshal/main/1500x500.jpg" width="65%" align="left" />
