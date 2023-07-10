@@ -24,7 +24,7 @@
 
 <!-- <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" /> -->
 
-- 🌱 I’m currently learning Back-End Development with Go
+- 🌱 I am currently learning new technology and all good things relate to life
 - ⚡ Fun fact: I am an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/id/ayyns3)
