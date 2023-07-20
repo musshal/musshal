@@ -22,8 +22,6 @@
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
-<!-- <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" align="right" width="95px" /> -->
-
 - 🌱 I am currently learning new technology and all good things relate to life
 - ⚡ Fun fact: I am an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
@@ -38,9 +36,6 @@ while (me.isAlive()) {
     me.code();
 }
 ```
-
-<!-- ## Connect with me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musshal) -->
 
 ---
 
