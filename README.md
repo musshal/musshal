@@ -4,11 +4,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I+am+Musthafa+Faishal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I+am+Shal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </h1>
 
-![Musshal's card name](https://cardivo.vercel.app/api?name=Musthafa%20Faishal&description=Full%20Stack%20Developer%20&image=https://raw.githubusercontent.com/musshal/musshal/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
+![Musshal's card name](https://cardivo.vercel.app/api?name=Shal&description=Full%20Stack%20Developer%20&image=https://raw.githubusercontent.com/musshal/musshal/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/musshal/musshal/main/1500x500.jpg" width="65%" align="left" />
