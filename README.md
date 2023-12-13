@@ -11,7 +11,7 @@
 ![Musshal's card name](https://cardivo.vercel.app/api?name=Shal&description=Software%20Engineer%20&image=https://raw.githubusercontent.com/musshal/musshal/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 
 <div align="center">
-  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="170px" alt="m's Dev Card" align="right" /></a>
+  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/63e7face721e47888d6cee8d40753b11.png?r=avb" width="150px" alt="m's Dev Card" align="right" /></a>
 </div>
 
 <div align="center">
