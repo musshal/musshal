@@ -20,6 +20,8 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="20%" />
 </div>
 
+<br />
+
 <!--START_SECTION:waka-->
 
 ```txt
