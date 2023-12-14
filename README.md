@@ -16,22 +16,22 @@
 
 <div align="center">
   <!--START_SECTION:waka-->
-  
-  ```txt
-  From: 21 November 2023 - To: 12 December 2023
-  
-  Total Time: 59 hrs 10 mins
-  
-  JavaScript   53 hrs 4 mins   ██████████████████████▒░░   89.69 %
-  CSS          2 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-  Bash         1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-  Other        39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-  JSON         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-  YAML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-  HTML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-  ```
-  
-  <!--END_SECTION:waka-->
+
+```txt
+From: 21 November 2023 - To: 13 December 2023
+
+Total Time: 61 hrs 45 mins
+
+JavaScript   55 hrs 26 mins  ██████████████████████▒░░   89.79 %
+CSS          2 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Bash         1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Other        39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JSON         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Markdown     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+YAML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
