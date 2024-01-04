@@ -42,6 +42,12 @@ Markdown     16 mins         ░░░░░░░░░░░░░░░░░
 
 ##
 
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31py5qf5z7v74gghjkrfhk2jh2ze&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></a>
+</div>
+
+##
+
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
 - 🌱 I am currently learning new technology and all good things relate to life
