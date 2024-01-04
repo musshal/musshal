@@ -34,6 +34,14 @@ Markdown     16 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
+##
+
+<div align="center">
+  <a href="https://discordapp.com/users/1184375938654408704"><img src="https://discord.c99.nl/widget/theme-1/1184375938654408704.png" /></a>
+</div>
+
+##
+
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
 - 🌱 I am currently learning new technology and all good things relate to life
