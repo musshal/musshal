@@ -37,7 +37,7 @@ Lua          1 hr 8 mins     ▒░░░░░░░░░░░░░░░░
 ##
 
 <div align="center">
-  <a href="https://discordapp.com/users/1184375938654408704"><img src="https://discord.c99.nl/widget/theme-1/1184375938654408704.png" /></a>
+  <a href="https://discord.com/users/1184375938654408704"><img src="https://discord.c99.nl/widget/theme-1/1184375938654408704.png" /></a>
 </div>
 
 ##
