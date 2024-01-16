@@ -51,6 +51,7 @@ Bash         2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░
 ## [My Link Tree](https://linkr.bio/mkfaishal) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20px" />
 
 - 🌱 I am currently learning new technology and all good things relate to life
+- 🕊️ For me learning is not only from the literature, I like to learn something new from people about anything
 - ⚡ Fun fact: I am an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
