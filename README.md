@@ -44,7 +44,7 @@ YAML           2 hrs 55 mins   ▒░░░░░░░░░░░░░░░�
 ##
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31py5qf5z7v74gghjkrfhk2jh2ze&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></a>
+  <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></a>
 </div>
 
 ##
