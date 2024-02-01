@@ -1,10 +1,10 @@
 <a href="https://t.me/meawliet"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="25px" /></a>
-[<img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
+[<img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />](<a href="https://github.com/musshal">)
 
 <br />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/musshal">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I+am+Shal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </h1>
