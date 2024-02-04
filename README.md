@@ -19,11 +19,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 02 February 2024
+From: 21 November 2023 - To: 03 February 2024
 
-Total Time: 260 hrs 22 mins
+Total Time: 260 hrs 30 mins
 
-JavaScript     184 hrs 14 mins █████████████████▓░░░░░░░   70.76 %
+JavaScript     184 hrs 17 mins █████████████████▓░░░░░░░   70.74 %
 Other          45 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
 Go             9 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 SCSS           4 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
