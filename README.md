@@ -89,7 +89,7 @@ while (me.isAlive()) {
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=5&margin-w=100&margin-h=50)](https://github.com/musshal/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=5&margin-w=100&margin-h=50)](https://github.com/musshal)
 
 ---
 
