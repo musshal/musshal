@@ -78,7 +78,9 @@ while (me.isAlive()) {
   <a href="https://github.com/musshal">
     <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="Musshal's github stats" width="440x" />
   </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musshal&theme=material-palenight&hide_border=false" alt="Musshal's activity graph" />
+  <a href="https://github.com/musshal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musshal&theme=material-palenight&hide_border=false" alt="Musshal's activity graph" />
+  </a>
 </div>
 
 ---
