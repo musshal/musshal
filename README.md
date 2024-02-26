@@ -1,4 +1,6 @@
-[<img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />](<a href="https://github.com/musshal">)
+<a href="https://github.com/musshal">
+  <img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />
+</a>
 
 <br />
 
