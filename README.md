@@ -49,7 +49,7 @@ JSON           3 hrs 53 mins   ▒░░░░░░░░░░░░░░░�
 - 🌱 I am currently learning new technology and all good things relate to life
 - 🕊️ For me learning is not only from the literature, I like to learn something new from people about anything
 - ⚡ Fun fact: I am an ordinary person who believes in <strong>PROGRESS</strong>!
-- 💬 Ask me about anything [here](https://github.com/Musshal/musshal/issues)
+- 💬 Ask me about anything [here](https://github.com/musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
 
 ```js
