@@ -36,17 +36,17 @@ CSS            4 hrs 8 mins    ▒░░░░░░░░░░░░░░░�
 
 ##
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></a>
-</div>
-
-##
-
 - 🌱 I am currently learning new technology and all good things relate to life
 - 🕊️ For me learning is not only from the literature, I like to learn something new from people about anything
 - ⚡ Fun fact: I am an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" width="125" />
+  </a>
+</div>
 
 ```js
 // my life cycle
