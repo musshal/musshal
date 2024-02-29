@@ -54,9 +54,10 @@ CSS            4 hrs 8 mins    ▒░░░░░░░░░░░░░░░�
 // my life cycle
 
 while (me.isAlive()) {
-    me.eat();
-    me.sleep();
-    me.code();
+  me.eat();
+  me.sleep();
+  me.code();
+  me.game();
 }
 ```
 
