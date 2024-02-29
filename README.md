@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://github.com/musshal">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I+am+Shal;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;My+name+is+Shal;I+am+a+Software+Engineer;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </h1>
 
