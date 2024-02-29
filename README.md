@@ -4,11 +4,13 @@
 
 <br />
 
-<h1 align="center">
+<div align="center">
   <a href="https://github.com/musshal">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;My+name+is+Shal;I+am+a+Software+Engineer;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
   </a>
-</h1>
+</div>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div align="center">
   <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="155" alt="m's Dev Card" align="right" /></a>
@@ -34,7 +36,7 @@ CSS            4 hrs 8 mins    ▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </div>
 
-##
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 - 🌱 I am currently learning new technology and all good things relate to life
 - 🕊️ For me learning is not only from the literature, I like to learn something new from people about anything
@@ -58,7 +60,7 @@ while (me.isAlive()) {
 }
 ```
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
@@ -79,7 +81,7 @@ while (me.isAlive()) {
   </a>
 </div>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h3 align="center">🏆 Trophies 🏆</h3>
 
@@ -87,7 +89,7 @@ while (me.isAlive()) {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=5&margin-w=100&margin-h=50)](https://github.com/musshal)
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h3 align="center">🛡️ Badges 🛡️</h3>
 
