@@ -10,6 +10,7 @@
   </a>
 </h1>
 
+
 <a href="https://github.com/musshal">
   <img src="https://cardivo.vercel.app/api?name=Shal&description=Software%20Engineer%20&image=https://avatars.githubusercontent.com/u/72973311?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000" />
 </a>
@@ -100,5 +101,3 @@ while (me.isAlive()) {
 [![@musshal's Holopin board](https://holopin.me/musshal)](https://holopin.io/@musshal)
 
 ---
-
-<h3 align="center">👇 Below is My Popular Repositories</h3>
