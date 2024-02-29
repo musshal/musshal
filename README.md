@@ -68,16 +68,16 @@ while (me.isAlive()) {
 
 <div align="center">
   <a href="https://github.com/musshal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&theme=material-palenight" alt="Musshal's github stats" align="left" height="365px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&theme=tokyonight" alt="Musshal's github stats" align="left" height="365px" />
   </a>
   <a href="https://github.com/musshal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="440px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="440px" />
     </a><br />
   <a href="https://github.com/musshal">
-    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="Musshal's github stats" width="440x" />
+    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Musshal's github stats" width="440x" />
   </a>
   <a href="https://github.com/musshal">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musshal&theme=material-palenight&hide_border=false" alt="Musshal's activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musshal&theme=tokyo-night&hide_border=false" alt="Musshal's activity graph" />
   </a>
 </div>
 
