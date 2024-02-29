@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="160" alt="m's Dev Card" align="right" /></a>
+  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="155" alt="m's Dev Card" align="right" /></a>
 </div>
 
 <div align="center">
