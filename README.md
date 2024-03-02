@@ -60,6 +60,13 @@ while (me.isAlive()) {
   me.game();
 }
 ```
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<h3 align="center">🔥 Problem Solving Skills 🔥</h3>
+
+<br />
+
+![Codewars](https://github.r2v.ch/codewars?user=musshal&theme=gradient)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
