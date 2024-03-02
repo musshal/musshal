@@ -67,7 +67,7 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
-  <img src="https://github.r2v.ch/codewars?user=musshal&theme=gradient" width="405px" align="left" />
+  <img src="https://github.r2v.ch/codewars?user=musshal&theme=gradient" width="410px" align="left" />
   <img src="https://leetcard.jacoblin.cool/musshal?ext=contest" width="400px" align="right" />
 </div>
 
