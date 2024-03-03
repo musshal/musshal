@@ -46,7 +46,7 @@ CSS            4 hrs 10 mins   ▒░░░░░░░░░░░░░░░�
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" width="128px" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" width="127px" />
   </a>
 </div>
 
@@ -67,8 +67,12 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=musshal&theme=dark" width="400px" align="left" />
-  <img src="https://leetcard.jacoblin.cool/musshal?ext=contest" width="400px" align="right" />
+  <a href="https://www.codewars.com/users/musshal">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=musshal&theme=dark" width="400px" align="left" />
+  </a>
+  <a href="https://leetcode.com/musshal/">
+    <img src="https://leetcard.jacoblin.cool/musshal?ext=contest" width="400px" align="right" />
+  </a>
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
