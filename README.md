@@ -1,9 +1,11 @@
+<!--
 <a href="https://github.com/musshal">
   <img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />
 </a>
 
 <br />
 <br />
+-->
 
 <div align="center">
   <a href="https://github.com/musshal">
