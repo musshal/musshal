@@ -23,16 +23,16 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 23 March 2024
+From: 21 November 2023 - To: 24 March 2024
 
-Total Time: 423 hrs 7 mins
+Total Time: 423 hrs 52 mins
 
-JavaScript     335 hrs 55 mins ████████████████████░░░░░   79.39 %
-Other          45 hrs 59 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+JavaScript     336 hrs 41 mins ████████████████████░░░░░   79.43 %
+Other          45 hrs 59 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
 Go             9 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Bash           8 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Bash           8 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 SCSS           4 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-CSS            4 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+CSS            4 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 JSON           4 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
