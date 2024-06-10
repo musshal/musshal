@@ -23,16 +23,16 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 08 June 2024
+From: 21 November 2023 - To: 09 June 2024
 
-Total Time: 696 hrs 11 mins
+Total Time: 700 hrs 51 mins
 
-JavaScript        471 hrs 48 mins █████████████████░░░░░░░░   67.77 %
-TypeScript        103 hrs 42 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-Other             58 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Bash              14 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Go                9 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JSON              7 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JavaScript        472 hrs 38 mins █████████████████░░░░░░░░   67.44 %
+TypeScript        107 hrs 22 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Other             58 hrs 43 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Bash              14 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Go                9 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JSON              7 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 Dart              5 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
