@@ -1,12 +1,3 @@
-<!--
-<a href="https://github.com/musshal">
-  <img src="https://komarev.com/ghpvc/?username=musshal" alt="Musshal's profile views" align="right" />
-</a>
-
-<br />
-<br />
--->
-
 <div align="center">
   <a href="https://github.com/musshal">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;My+name+is+Shal;I+am+a+Software+Engineer;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
@@ -43,13 +34,13 @@ Dart              6 hrs 7 mins    ▒░░░░░░░░░░░░░░�
 
 - 🌱 I am currently learning new technology and all good things relate to life
 - 🕊️ For me learning is not only from the literature, I like to learn something new from people about anything
-- ⚡ Fun fact: I am an ordinary person who believes in <strong>PROGRESS</strong>!
+- ⚡ Fun fact: I am <!-- dead inside 🙂 --> an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right" width="127px" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" align="right" width="127px" />
   </a>
 </div>
 
