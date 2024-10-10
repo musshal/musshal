@@ -32,8 +32,8 @@ Dart               10 hrs 8 mins   ▒░░░░░░░░░░░░░░
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-- 🌱 I am currently learning new technology and all good things relate to life
-- 🕊️ For me learning is not only from the literature, I like to learn something new from people about anything
+- 🌱 I am currently learning new technology and all good things related to life
+- 🕊️ For me learning is not only from literature, I like to learn something new from people about anything
 - ⚡ Fun fact: I am <!-- dead inside 🙂 --> an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/musshal/musshal/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
