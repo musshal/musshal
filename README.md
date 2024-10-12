@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 10 October 2024
+From: 21 November 2023 - To: 11 October 2024
 
-Total Time: 953 hrs 11 mins
+Total Time: 953 hrs 40 mins
 
-JavaScript         608 hrs 22 mins ████████████████░░░░░░░░░   63.83 %
-TypeScript         176 hrs 35 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-Other              70 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+JavaScript         608 hrs 51 mins ████████████████░░░░░░░░░   63.84 %
+TypeScript         176 hrs 35 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+Other              70 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
 Bash               16 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 JSON               12 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
