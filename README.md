@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/musshal">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;My+name+is+Faishal;I+am+a+software+engineer;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Musshal's running text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;My+name+is+Faishal;I+am+a+software+engineer;Welcome+to+my+profile;Nice+to+,=meet+you!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </div>
 
