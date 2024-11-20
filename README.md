@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/musshal">
+  <a href="https://github.com/faishaldev">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;My+name+is+Faishal;I+am+a+software+engineer;Welcome+to+my+profile;Nice+to+meet+you!&center=true&size=28" alt="Musshal's running text"/>
   </a>
 </div>
@@ -7,7 +7,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div align="center">
-  <a href="https://app.daily.dev/musshal"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="162" alt="m's Dev Card" align="right" /></a>
+  <a href="https://app.daily.dev/faishaldev"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="162" alt="m's Dev Card" align="right" /></a>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@ Dart               10 hrs 8 mins   ▒░░░░░░░░░░░░░░
 - 🌱 I am currently learning new technology and all good things related to life
 - 🕊️ For me learning is not only from literature, I like to learn something new from people about anything
 - ⚡ Fun fact: I am <!-- dead inside 🙂 --> an ordinary person who believes in <strong>PROGRESS</strong>!
-- 💬 Ask me about anything [here](https://github.com/musshal/musshal/issues)
+- 💬 Ask me about anything [here](https://github.com/faishaldev/faishaldev/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
 
 <div align="center">
@@ -65,11 +65,11 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
-  <a href="https://www.codewars.com/users/musshal">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=musshal&theme=dark" width="400px" align="left" />
+  <a href="https://www.codewars.com/users/faishaldev">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=faishaldev&theme=dark" width="400px" align="left" />
   </a>
-  <a href="https://leetcode.com/musshal/">
-    <img src="https://leetcard.jacoblin.cool/musshal?ext=contest" width="400px" align="right" />
+  <a href="https://leetcode.com/faishaldev/">
+    <img src="https://leetcard.jacoblin.cool/faishaldev?ext=contest" width="400px" align="right" />
   </a>
 </div>
 
@@ -80,17 +80,17 @@ while (me.isAlive()) {
 <br />
 
 <div align="center">
-  <a href="https://github.com/musshal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musshal&theme=tokyonight" alt="Musshal's github stats" align="left" height="365px" />
+  <a href="https://github.com/faishaldev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishaldev&theme=tokyonight" alt="Musshal's github stats" align="left" height="365px" />
   </a>
-  <a href="https://github.com/musshal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musshal&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="440px" />
+  <a href="https://github.com/faishaldev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishaldev&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="440px" />
     </a><br />
-  <a href="https://github.com/musshal">
-    <img src="https://github-readme-stats.vercel.app/api?username=musshal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Musshal's github stats" width="440x" />
+  <a href="https://github.com/faishaldev">
+    <img src="https://github-readme-stats.vercel.app/api?username=faishaldev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Musshal's github stats" width="440x" />
   </a>
-  <a href="https://github.com/musshal">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musshal&theme=tokyo-night&hide_border=false" alt="Musshal's activity graph" />
+  <a href="https://github.com/faishaldev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faishaldev&theme=tokyo-night&hide_border=false" alt="Musshal's activity graph" />
   </a>
 </div>
 
@@ -100,7 +100,7 @@ while (me.isAlive()) {
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=musshal&theme=onedark&column=5&margin-w=100&margin-h=50)](https://github.com/musshal)
+[![trophy](https://github-profile-trophy.vercel.app/?username=faishaldev&theme=onedark&column=5&margin-w=100&margin-h=50)](https://github.com/faishaldev)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
@@ -108,4 +108,4 @@ while (me.isAlive()) {
 
 <br />
 
-[![@musshal's Holopin board](https://holopin.me/musshal)](https://holopin.io/@musshal)
+[![@faishaldev's Holopin board](https://holopin.me/faishaldev)](https://holopin.io/@faishaldev)
